@@ -1,0 +1,16 @@
+{
+  "id": "hello",
+  "type": "SharedSlice",
+  "name": "Hello",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "description": "Default",
+      "imageUrl": "https://images.prismic.io/farbe-traning/shared-slices/hello/default/3f7749a56f2df500bd6ec10a2359936e44b24d8d.png?auto=compress%2Cformat",
+      "docURL": "...",
+      "version": "initial"
+    }
+  ],
+  "description": "Hello"
+}
